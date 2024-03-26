@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 Kritika 🥰 Love 」──
+    ──「 Pasa back 」──
 </h2>
 
 <p align="center">
@@ -68,4 +68,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ Kritika love ](https://github.com/TeamYukki) ғᴏʀ [ kritika music bot ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ pasa back ](https://github.com/TeamYukki) ғᴏʀ [ pasa back music bot ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
